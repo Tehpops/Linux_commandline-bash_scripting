@@ -1,0 +1,49 @@
+---------
+Name: Aeson
+Date: Fri May  17 19:10:28 CEST 2020
+Player won? TRUE
+Number of used guesses: 3
+ 
+---------
+Name: Aeson
+Date: Fri May  17 19:11:20 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Aeson
+Date: Fri May  17 19:11:59 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+
+---------
+Name: Aeson
+Date: Fri May  17 19:13:10 CEST 2020
+Player won? TRUE
+Number of used guesses: 1
+ 
+---------
+Name: Aeson
+Date: Fri May  17 19:14:00 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Aeson
+Date: Fri May  17 19:14:45 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Aeson
+Date: Fri May  17 19:15:26 CEST 2020
+Player won? FALSE
+Number of used guesses: 3
+ 
+---------
+Name: Aeson
+Date: Fri May  17 19:16:11 CEST 2020
+Player won? TRUE
+Number of used guesses: 3
+ 
+
